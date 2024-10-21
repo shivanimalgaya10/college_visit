@@ -1,0 +1,977 @@
+{
+    "Maharashtra": [
+      {
+        "rank": 1,
+        "college": "IIT Bombay",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 30, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 2,
+        "college": "College of Engineering Pune",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 3,
+        "college": "VJTI Mumbai",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,50,000"
+      },
+      {
+        "rank": 4,
+        "college": "SPCE Mumbai",
+        "ranking": 4.3,
+        "cutoff": "88%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 5,
+        "college": "ICT Mumbai",
+        "ranking": 4.7,
+        "cutoff": "94%",
+        "applicationDeadline": "June 20, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 6,
+        "college": "Symbiosis Institute of Technology",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "MIT Pune",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 8,
+        "college": "Bharati Vidyapeeth University",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 9,
+        "college": "Dr. Babasaheb Ambedkar Technological University",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,30,000"
+      },
+      {
+        "rank": 10,
+        "college": "Shivaji University",
+        "ranking": 3.8,
+        "cutoff": "80%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,25,000"
+      }
+    ],
+    "Tamil Nadu": [
+      {
+        "rank": 1,
+        "college": "IIT Madras",
+        "ranking": 4.9,
+        "cutoff": "96%",
+        "applicationDeadline": "July 1, 2024",
+        "fees": "₹2,10,000"
+      },
+      {
+        "rank": 2,
+        "college": "Anna University",
+        "ranking": 4.6,
+        "cutoff": "93%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 3,
+        "college": "NIT Trichy",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 28, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 4,
+        "college": "VIT Vellore",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 5,
+        "college": "SRM University",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,75,000"
+      },
+      {
+        "rank": 6,
+        "college": "PSG College of Technology",
+        "ranking": 4.3,
+        "cutoff": "89%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "Sathyabama University",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 8,
+        "college": "Amrita Vishwa Vidyapeetham",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 9,
+        "college": "Madras Institute of Technology",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 10,
+        "college": "Bannari Amman Institute of Technology",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,35,000"
+      }
+    ],
+    "Andhra Pradesh": [   {
+        "rank": 1,
+        "college": "IIT Madras",
+        "ranking": 4.9,
+        "cutoff": "96%",
+        "applicationDeadline": "July 1, 2024",
+        "fees": "₹2,10,000"
+      },
+      {
+        "rank": 2,
+        "college": "Anna University",
+        "ranking": 4.6,
+        "cutoff": "93%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 3,
+        "college": "NIT Trichy",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 28, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 4,
+        "college": "VIT Vellore",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 5,
+        "college": "SRM University",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,75,000"
+      },
+      {
+        "rank": 6,
+        "college": "PSG College of Technology",
+        "ranking": 4.3,
+        "cutoff": "89%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "Sathyabama University",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 8,
+        "college": "Amrita Vishwa Vidyapeetham",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 9,
+        "college": "Madras Institute of Technology",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 10,
+        "college": "Bannari Amman Institute of Technology",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,35,000"
+      }],
+    "Arunachal Pradesh": [
+        {
+            "rank": 1,
+            "college": "IIT Madras",
+            "ranking": 4.9,
+            "cutoff": "96%",
+            "applicationDeadline": "July 1, 2024",
+            "fees": "₹2,10,000"
+          },
+          {
+            "rank": 2,
+            "college": "Anna University",
+            "ranking": 4.6,
+            "cutoff": "93%",
+            "applicationDeadline": "July 10, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 3,
+            "college": "NIT Trichy",
+            "ranking": 4.8,
+            "cutoff": "95%",
+            "applicationDeadline": "June 28, 2024",
+            "fees": "₹2,00,000"
+          },
+          {
+            "rank": 4,
+            "college": "VIT Vellore",
+            "ranking": 4.5,
+            "cutoff": "92%",
+            "applicationDeadline": "July 15, 2024",
+            "fees": "₹1,80,000"
+          },
+          {
+            "rank": 5,
+            "college": "SRM University",
+            "ranking": 4.4,
+            "cutoff": "90%",
+            "applicationDeadline": "July 20, 2024",
+            "fees": "₹1,75,000"
+          },
+          {
+            "rank": 6,
+            "college": "PSG College of Technology",
+            "ranking": 4.3,
+            "cutoff": "89%",
+            "applicationDeadline": "June 25, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 7,
+            "college": "Sathyabama University",
+            "ranking": 4.2,
+            "cutoff": "87%",
+            "applicationDeadline": "July 5, 2024",
+            "fees": "₹1,60,000"
+          },
+          {
+            "rank": 8,
+            "college": "Amrita Vishwa Vidyapeetham",
+            "ranking": 4.1,
+            "cutoff": "85%",
+            "applicationDeadline": "July 12, 2024",
+            "fees": "₹1,55,000"
+          },
+          {
+            "rank": 9,
+            "college": "Madras Institute of Technology",
+            "ranking": 4.0,
+            "cutoff": "83%",
+            "applicationDeadline": "July 8, 2024",
+            "fees": "₹1,40,000"
+          },
+          {
+            "rank": 10,
+            "college": "Bannari Amman Institute of Technology",
+            "ranking": 3.9,
+            "cutoff": "82%",
+            "applicationDeadline": "July 25, 2024",
+            "fees": "₹1,35,000"
+          }
+    ],
+    "Assam": [
+        {
+            "rank": 1,
+            "college": "IIT Madras",
+            "ranking": 4.9,
+            "cutoff": "96%",
+            "applicationDeadline": "July 1, 2024",
+            "fees": "₹2,10,000"
+          },
+          {
+            "rank": 2,
+            "college": "Anna University",
+            "ranking": 4.6,
+            "cutoff": "93%",
+            "applicationDeadline": "July 10, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 3,
+            "college": "NIT Trichy",
+            "ranking": 4.8,
+            "cutoff": "95%",
+            "applicationDeadline": "June 28, 2024",
+            "fees": "₹2,00,000"
+          },
+          {
+            "rank": 4,
+            "college": "VIT Vellore",
+            "ranking": 4.5,
+            "cutoff": "92%",
+            "applicationDeadline": "July 15, 2024",
+            "fees": "₹1,80,000"
+          },
+          {
+            "rank": 5,
+            "college": "SRM University",
+            "ranking": 4.4,
+            "cutoff": "90%",
+            "applicationDeadline": "July 20, 2024",
+            "fees": "₹1,75,000"
+          },
+          {
+            "rank": 6,
+            "college": "PSG College of Technology",
+            "ranking": 4.3,
+            "cutoff": "89%",
+            "applicationDeadline": "June 25, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 7,
+            "college": "Sathyabama University",
+            "ranking": 4.2,
+            "cutoff": "87%",
+            "applicationDeadline": "July 5, 2024",
+            "fees": "₹1,60,000"
+          },
+          {
+            "rank": 8,
+            "college": "Amrita Vishwa Vidyapeetham",
+            "ranking": 4.1,
+            "cutoff": "85%",
+            "applicationDeadline": "July 12, 2024",
+            "fees": "₹1,55,000"
+          },
+          {
+            "rank": 9,
+            "college": "Madras Institute of Technology",
+            "ranking": 4.0,
+            "cutoff": "83%",
+            "applicationDeadline": "July 8, 2024",
+            "fees": "₹1,40,000"
+          },
+          {
+            "rank": 10,
+            "college": "Bannari Amman Institute of Technology",
+            "ranking": 3.9,
+            "cutoff": "82%",
+            "applicationDeadline": "July 25, 2024",
+            "fees": "₹1,35,000"
+          }
+    ],
+    "Bihar": [   {
+        "rank": 1,
+        "college": "IIT Madras",
+        "ranking": 4.9,
+        "cutoff": "96%",
+        "applicationDeadline": "July 1, 2024",
+        "fees": "₹2,10,000"
+      },
+      {
+        "rank": 2,
+        "college": "Anna University",
+        "ranking": 4.6,
+        "cutoff": "93%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 3,
+        "college": "NIT Trichy",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 28, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 4,
+        "college": "VIT Vellore",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 5,
+        "college": "SRM University",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,75,000"
+      },
+      {
+        "rank": 6,
+        "college": "PSG College of Technology",
+        "ranking": 4.3,
+        "cutoff": "89%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "Sathyabama University",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 8,
+        "college": "Amrita Vishwa Vidyapeetham",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 9,
+        "college": "Madras Institute of Technology",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 10,
+        "college": "Bannari Amman Institute of Technology",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,35,000"
+      }],
+    "Chhattisgarh": [   {
+        "rank": 1,
+        "college": "IIT Madras",
+        "ranking": 4.9,
+        "cutoff": "96%",
+        "applicationDeadline": "July 1, 2024",
+        "fees": "₹2,10,000"
+      },
+      {
+        "rank": 2,
+        "college": "Anna University",
+        "ranking": 4.6,
+        "cutoff": "93%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 3,
+        "college": "NIT Trichy",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 28, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 4,
+        "college": "VIT Vellore",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 5,
+        "college": "SRM University",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,75,000"
+      },
+      {
+        "rank": 6,
+        "college": "PSG College of Technology",
+        "ranking": 4.3,
+        "cutoff": "89%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "Sathyabama University",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 8,
+        "college": "Amrita Vishwa Vidyapeetham",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 9,
+        "college": "Madras Institute of Technology",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 10,
+        "college": "Bannari Amman Institute of Technology",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,35,000"
+      }],
+    "Goa": [
+        {
+            "rank": 1,
+            "college": "IIT Madras",
+            "ranking": 4.9,
+            "cutoff": "96%",
+            "applicationDeadline": "July 1, 2024",
+            "fees": "₹2,10,000"
+          },
+          {
+            "rank": 2,
+            "college": "Anna University",
+            "ranking": 4.6,
+            "cutoff": "93%",
+            "applicationDeadline": "July 10, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 3,
+            "college": "NIT Trichy",
+            "ranking": 4.8,
+            "cutoff": "95%",
+            "applicationDeadline": "June 28, 2024",
+            "fees": "₹2,00,000"
+          },
+          {
+            "rank": 4,
+            "college": "VIT Vellore",
+            "ranking": 4.5,
+            "cutoff": "92%",
+            "applicationDeadline": "July 15, 2024",
+            "fees": "₹1,80,000"
+          },
+          {
+            "rank": 5,
+            "college": "SRM University",
+            "ranking": 4.4,
+            "cutoff": "90%",
+            "applicationDeadline": "July 20, 2024",
+            "fees": "₹1,75,000"
+          },
+          {
+            "rank": 6,
+            "college": "PSG College of Technology",
+            "ranking": 4.3,
+            "cutoff": "89%",
+            "applicationDeadline": "June 25, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 7,
+            "college": "Sathyabama University",
+            "ranking": 4.2,
+            "cutoff": "87%",
+            "applicationDeadline": "July 5, 2024",
+            "fees": "₹1,60,000"
+          },
+          {
+            "rank": 8,
+            "college": "Amrita Vishwa Vidyapeetham",
+            "ranking": 4.1,
+            "cutoff": "85%",
+            "applicationDeadline": "July 12, 2024",
+            "fees": "₹1,55,000"
+          },
+          {
+            "rank": 9,
+            "college": "Madras Institute of Technology",
+            "ranking": 4.0,
+            "cutoff": "83%",
+            "applicationDeadline": "July 8, 2024",
+            "fees": "₹1,40,000"
+          },
+          {
+            "rank": 10,
+            "college": "Bannari Amman Institute of Technology",
+            "ranking": 3.9,
+            "cutoff": "82%",
+            "applicationDeadline": "July 25, 2024",
+            "fees": "₹1,35,000"
+          }
+    ],
+    "Gujarat": [
+        {
+            "rank": 1,
+            "college": "IIT Madras",
+            "ranking": 4.9,
+            "cutoff": "96%",
+            "applicationDeadline": "July 1, 2024",
+            "fees": "₹2,10,000"
+          },
+          {
+            "rank": 2,
+            "college": "Anna University",
+            "ranking": 4.6,
+            "cutoff": "93%",
+            "applicationDeadline": "July 10, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 3,
+            "college": "NIT Trichy",
+            "ranking": 4.8,
+            "cutoff": "95%",
+            "applicationDeadline": "June 28, 2024",
+            "fees": "₹2,00,000"
+          },
+          {
+            "rank": 4,
+            "college": "VIT Vellore",
+            "ranking": 4.5,
+            "cutoff": "92%",
+            "applicationDeadline": "July 15, 2024",
+            "fees": "₹1,80,000"
+          },
+          {
+            "rank": 5,
+            "college": "SRM University",
+            "ranking": 4.4,
+            "cutoff": "90%",
+            "applicationDeadline": "July 20, 2024",
+            "fees": "₹1,75,000"
+          },
+          {
+            "rank": 6,
+            "college": "PSG College of Technology",
+            "ranking": 4.3,
+            "cutoff": "89%",
+            "applicationDeadline": "June 25, 2024",
+            "fees": "₹1,70,000"
+          },
+          {
+            "rank": 7,
+            "college": "Sathyabama University",
+            "ranking": 4.2,
+            "cutoff": "87%",
+            "applicationDeadline": "July 5, 2024",
+            "fees": "₹1,60,000"
+          },
+          {
+            "rank": 8,
+            "college": "Amrita Vishwa Vidyapeetham",
+            "ranking": 4.1,
+            "cutoff": "85%",
+            "applicationDeadline": "July 12, 2024",
+            "fees": "₹1,55,000"
+          },
+          {
+            "rank": 9,
+            "college": "Madras Institute of Technology",
+            "ranking": 4.0,
+            "cutoff": "83%",
+            "applicationDeadline": "July 8, 2024",
+            "fees": "₹1,40,000"
+          },
+          {
+            "rank": 10,
+            "college": "Bannari Amman Institute of Technology",
+            "ranking": 3.9,
+            "cutoff": "82%",
+            "applicationDeadline": "July 25, 2024",
+            "fees": "₹1,35,000"
+          }
+    ],
+    "Haryana": [   {
+        "rank": 1,
+        "college": "IIT Madras",
+        "ranking": 4.9,
+        "cutoff": "96%",
+        "applicationDeadline": "July 1, 2024",
+        "fees": "₹2,10,000"
+      },
+      {
+        "rank": 2,
+        "college": "Anna University",
+        "ranking": 4.6,
+        "cutoff": "93%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 3,
+        "college": "NIT Trichy",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 28, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 4,
+        "college": "VIT Vellore",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 5,
+        "college": "SRM University",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,75,000"
+      },
+      {
+        "rank": 6,
+        "college": "PSG College of Technology",
+        "ranking": 4.3,
+        "cutoff": "89%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "Sathyabama University",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 8,
+        "college": "Amrita Vishwa Vidyapeetham",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 9,
+        "college": "Madras Institute of Technology",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 10,
+        "college": "Bannari Amman Institute of Technology",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,35,000"
+      }],
+    "Himachal Pradesh": [   {
+        "rank": 1,
+        "college": "IIT Madras",
+        "ranking": 4.9,
+        "cutoff": "96%",
+        "applicationDeadline": "July 1, 2024",
+        "fees": "₹2,10,000"
+      },
+      {
+        "rank": 2,
+        "college": "Anna University",
+        "ranking": 4.6,
+        "cutoff": "93%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 3,
+        "college": "NIT Trichy",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 28, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 4,
+        "college": "VIT Vellore",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 5,
+        "college": "SRM University",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,75,000"
+      },
+      {
+        "rank": 6,
+        "college": "PSG College of Technology",
+        "ranking": 4.3,
+        "cutoff": "89%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "Sathyabama University",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 8,
+        "college": "Amrita Vishwa Vidyapeetham",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 9,
+        "college": "Madras Institute of Technology",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 10,
+        "college": "Bannari Amman Institute of Technology",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,35,000"
+      }],
+    "Jharkhand": [   {
+        "rank": 1,
+        "college": "IIT Madras",
+        "ranking": 4.9,
+        "cutoff": "96%",
+        "applicationDeadline": "July 1, 2024",
+        "fees": "₹2,10,000"
+      },
+      {
+        "rank": 2,
+        "college": "Anna University",
+        "ranking": 4.6,
+        "cutoff": "93%",
+        "applicationDeadline": "July 10, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 3,
+        "college": "NIT Trichy",
+        "ranking": 4.8,
+        "cutoff": "95%",
+        "applicationDeadline": "June 28, 2024",
+        "fees": "₹2,00,000"
+      },
+      {
+        "rank": 4,
+        "college": "VIT Vellore",
+        "ranking": 4.5,
+        "cutoff": "92%",
+        "applicationDeadline": "July 15, 2024",
+        "fees": "₹1,80,000"
+      },
+      {
+        "rank": 5,
+        "college": "SRM University",
+        "ranking": 4.4,
+        "cutoff": "90%",
+        "applicationDeadline": "July 20, 2024",
+        "fees": "₹1,75,000"
+      },
+      {
+        "rank": 6,
+        "college": "PSG College of Technology",
+        "ranking": 4.3,
+        "cutoff": "89%",
+        "applicationDeadline": "June 25, 2024",
+        "fees": "₹1,70,000"
+      },
+      {
+        "rank": 7,
+        "college": "Sathyabama University",
+        "ranking": 4.2,
+        "cutoff": "87%",
+        "applicationDeadline": "July 5, 2024",
+        "fees": "₹1,60,000"
+      },
+      {
+        "rank": 8,
+        "college": "Amrita Vishwa Vidyapeetham",
+        "ranking": 4.1,
+        "cutoff": "85%",
+        "applicationDeadline": "July 12, 2024",
+        "fees": "₹1,55,000"
+      },
+      {
+        "rank": 9,
+        "college": "Madras Institute of Technology",
+        "ranking": 4.0,
+        "cutoff": "83%",
+        "applicationDeadline": "July 8, 2024",
+        "fees": "₹1,40,000"
+      },
+      {
+        "rank": 10,
+        "college": "Bannari Amman Institute of Technology",
+        "ranking": 3.9,
+        "cutoff": "82%",
+        "applicationDeadline": "July 25, 2024",
+        "fees": "₹1,35,000"
+      }
+    ]
+
+  }
+  
