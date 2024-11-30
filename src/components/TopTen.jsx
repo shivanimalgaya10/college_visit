@@ -83,7 +83,7 @@ const StateColleges = () => {
             <thead>
               <tr>
                 <th className="px-6 py-3 text-left text-sm font-medium text-gray-700 bg-green-100">Rank</th>
-                <th className="px-6 py-3 text-left text-sm font-medium text-gray-700 bg-green-100">College</th>
+                <th className="px-6 py-3 text-left text-sm font-medium text-gray-700 bg-green-100">Colleges</th>
                 <th className="px-6 py-3 text-left text-sm font-medium text-gray-700 bg-green-100">Ranking</th>
                 <th className="px-6 py-3 text-left text-sm font-medium text-gray-700 bg-green-100">Cutoff</th>
                 <th className="px-6 py-3 text-left text-sm font-medium text-gray-700 bg-green-100">Application Deadline</th>
